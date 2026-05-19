@@ -2,6 +2,8 @@
 
 > A full-stack Kanban task manager — organize work into boards, lists, and drag-and-drop cards.
 
+![Preview](board.png)
+
 TaskFlow is a portfolio project that demonstrates a complete, production-style web
 application: a typed REST API, token-based authentication, a relational database,
 a single-page React frontend, automated tests, and CI.
